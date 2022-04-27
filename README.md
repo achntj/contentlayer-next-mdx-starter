@@ -2,6 +2,8 @@
 
 This is a minimal Next.js & Contentlayer starter that comes configured with MDX support, code highlighting, and tailwind css.
 
+[Demo](https://contentlayer-starter.vercel.app/)
+
 ## Getting Started
 
 Clone this repository and install all dependencies
