@@ -20,6 +20,7 @@ That's it! To create new posts, head over to the content/blog folder and create 
 To use your own components in your MDX files, import them to the pages/blog/[slug].tsx page, and add them to the `MDXcomponents` variable. To give custom name aliases to these components use the following syntax - 
 
 ```js
+// pages/blog/[slug].tsx
 import Image from "next/image"
 
 const MDXcomponents = {
